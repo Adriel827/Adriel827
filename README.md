@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://imgur.com/a/leCzzQ8" alt="Banner Pixel" width="500"/>
+  <img src="https://i.imgur.com/aqcnFzd.gif" alt="Banner Pixel" width="500"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Opa%2C+eu+sou+o+Adriel!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005C53&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Opa%2C+eu+sou+o+Adriel!" alt="Typing SVG" />
   </a>
 </p>
 
