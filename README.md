@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/Zg8kO8Q.gif" alt="Banner Pixel" width="500"/>
+  <img src="[https://i.imgur.com/Zg8kO8Q.gif](https://imgur.com/a/leCzzQ8)" alt="Banner Pixel" width="500"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,9 @@
   💻 Estudante de programação e criador de jogos (às vezes funcionam).
 </p>
 
+
 ---
+
 
 ## 🚀 O que estou fazendo agora
 <p align="center">
@@ -20,7 +22,9 @@
   • Tentando não quebrar nada...
 </p>
 
+
 ---
+
 
 ## 🛠 Skills
 <p align="center">
@@ -33,7 +37,9 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+
 ---
+
 
 ## 📊 Minhas estatísticas no GitHub
 <p align="center">
@@ -41,11 +47,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel827&layout=compact&theme=radical" height="160" />
 </p>
 
+
 ---
 
+
 <p align="center">
-  <em>"Se não funcionar na primeira, é feature, não bug." — Eu mesmo</em>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  <em>"Se não funcionar na primeira, é feature, não bug."</em>
 </p>
