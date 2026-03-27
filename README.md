@@ -18,7 +18,7 @@
 
 ## 🚀 O que estou fazendo agora
 <p align="center">
-  • Explorando C# e Unreal Engine.<br>
+  • Explorando C# e Unity.<br>
   • Tentando não quebrar nada...
 </p>
 
