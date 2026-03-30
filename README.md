@@ -9,22 +9,11 @@
 </p>
 
 <p align="center">
-  💻 Estudante de programação e criador de jogos (às vezes funcionam).
+  💻 Estudante de programação e criador de jogos.
 </p>
 
 
 ---
-
-
-## 🚀 O que estou fazendo agora
-<p align="center">
-  • Explorando C# e Unity.<br>
-  • Tentando não quebrar nada...
-</p>
-
-
----
-
 
 ## 🛠 Skills
 <p align="center">
@@ -41,16 +30,3 @@
 ---
 
 
-## 📊 Minhas estatísticas no GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adriel827&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel827&layout=compact&theme=radical" height="160" />
-</p>
-
-
----
-
-
-<p align="center">
-  <em>"Se não funcionar na primeira, é feature, não bug."</em>
-</p>
